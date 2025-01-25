@@ -1,0 +1,41 @@
+# RealTimeCodeEditor Application
+
+RealTimeCodeEditor is a dynamic, real-time collaborative code editor built using the MERN stack (MongoDB, Express, React, Node.js). The application allows users to join collaborative coding sessions from anywhere in the world, enabling live coding with real-time collaboration. Users can join a coding room using a unique room ID, edit or write code, and the app will display "User is Typing" as they type.
+
+## Features
+
+- **Real-time collaboration**: Multiple users can join a coding room using a unique room ID and edit the code in real time.
+- **User presence**: Shows the users currently in the room and indicates when someone is typing.
+- **Language selection**: Choose from multiple programming languages such as JavaScript, Python, Java, and C++.
+- **Responsive UI**: The app is designed to work seamlessly on desktop and mobile devices.
+- **Live Project**: Access the live project online.
+
+## Live Demo
+
+You can access the live demo of the project at:  
+[RealTimeCodeEditor Live Project](https://realtimecodeseditor.onrender.com/)
+
+## Screenshot
+
+![image_preview of Application](https://ik.imagekit.io/vinaymry/Screenshot%202025-01-25%20162840.png?updatedAt=1737803609259)  
+
+*Example of the real-time code editing interface.*
+
+## Technologies Used
+
+- **Frontend**: React, Monaco Editor (for the code editor), Socket.io (for real-time communication)
+- **Backend**: Node.js, Express.js, Socket.io (for real-time communication)
+- **Database**: MongoDB (if used for user authentication or saving sessions)
+
+## Installation
+
+### Prerequisites
+Ensure you have the following installed on your system:
+- **Node.js** (https://nodejs.org/)
+- **npm** (comes with Node.js)
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/realtimecodeeditor.git
+cd realtimecodeeditor
