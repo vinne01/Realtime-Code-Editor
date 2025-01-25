@@ -89,6 +89,10 @@ const App = () => {
 
   if (!joined) {
     return (
+      <>
+        <div className="project-info">
+          <h1>RealTimeCodeEditor</h1>
+        </div>
       <div className="join-container">
         <div className="join-form">
           <h1>Join Code Room</h1>
@@ -107,6 +111,7 @@ const App = () => {
           <button onClick={joinRoom}>Join Room</button>
         </div>
       </div>
+      </>
     );
   }
 
