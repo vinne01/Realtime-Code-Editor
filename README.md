@@ -15,9 +15,11 @@ RealTimeCodeEditor is a dynamic, real-time collaborative code editor built using
 You can access the live demo of the project at:  
 [RealTimeCodeEditor Live Project](https://realtimecodeseditor.onrender.com/)
 
-## Screenshot
+## Screenshot Of Application
 
-![image_preview of Application](https://ik.imagekit.io/vinaymry/Screenshot%202025-01-25%20162840.png?updatedAt=1737803609259)  
+![**image_preview of Application**](https://ik.imagekit.io/vinaymry/Screenshot%202025-01-25%20162840.png?updatedAt=1737803609259)  
+
+![**image_ Of MultipleUser Connect Through Unique RoomId**](https://ik.imagekit.io/vinaymry/Screenshot%202025-01-25%20162957.png?updatedAt=1737803609239)
 
 *Example of the real-time code editing interface.*
 
